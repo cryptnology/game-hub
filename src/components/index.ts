@@ -4,6 +4,7 @@ export { default as GameCard } from './GameCard';
 export { default as GameCardContainer } from './GameCardContainer';
 export { default as GameCardSkeleton } from './GameCardSkeleton';
 export { default as GameGrid } from './GameGrid';
+export { default as GameHeading } from './GameHeading';
 export { default as GenreList } from './GenreList';
 export { default as NavBar } from './NavBar';
 export { default as PlatformIconList } from './PlatformIconList';
