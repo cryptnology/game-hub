@@ -8,4 +8,5 @@ export { default as GenreList } from './GenreList';
 export { default as NavBar } from './NavBar';
 export { default as PlatformIconList } from './PlatformIconList';
 export { default as PlatformSelector } from './PlatformSelector';
+export { default as SearchInput } from './SearchInput';
 export { default as SortSelector } from './SortSelector';
