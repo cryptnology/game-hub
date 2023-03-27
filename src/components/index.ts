@@ -1,5 +1,6 @@
 export { default as ColorModeSwitch } from './ColorModeSwitch';
 export { default as CriticScore } from './CriticScore';
+export { default as Emoji } from './Emoji';
 export { default as GameCard } from './GameCard';
 export { default as GameCardContainer } from './GameCardContainer';
 export { default as GameCardSkeleton } from './GameCardSkeleton';
