@@ -2,6 +2,8 @@
 
 GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more.
 
+You can watch a quick demo and walkthrough of the app [here](https://youtu.be/u7ZVnRcIt1I)
+
 <img width="1280" alt="game-hub" src="https://user-images.githubusercontent.com/85605968/233994639-c2562df3-994b-49d4-91a3-aceee7384e2e.png">
 
 ## Getting Started
